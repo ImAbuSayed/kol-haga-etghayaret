@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Haga Etghayaret
+
+This log tracks the cryptographic history and versioning for the song **Kol Haga Etghayaret** (kol-haga-etghayaret).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:34:52.426540 | `v1` | `c91d2915f4222f1aedb7ff7e04fa588e2411b1e4383ec424a4c0885f2e1bd338` | `5497b2ee8aaeb9c6d7be163848612f3c20bd1e832c039864653e15c86e42e18a` | `2026-05-09_kol-haga-etghayaret-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
